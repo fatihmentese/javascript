@@ -1,2 +1,2 @@
-# new-element-create
-Yeni javascript elementi oluşturmak için örnek kod
+# Creating New HTML Element
+Yeni HTML elementi oluşturmak için örnek kod
