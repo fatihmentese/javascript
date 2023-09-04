@@ -1,2 +1,2 @@
 # new-element-create
-New Element Create
+Yeni javascript elementi oluşturmak için örnek kod
